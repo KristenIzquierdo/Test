@@ -16,5 +16,3 @@ def mothers_day(name = "Mom")
 end
 puts mothers_day
 puts mothers_day("Beyoncé")
-
-
